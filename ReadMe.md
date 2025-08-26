@@ -52,12 +52,10 @@ Contract No: STBP7A5Y0QCE5K952DV59JNANABYDDM0FF7ECPMS.VirtualPetSimulator
 ### Mainnet
 - **Contract Address**: `[To be added after mainnet deployment]`
 - **Network**: Stacks Mainnet
-- **Deployment Block**: `[To be updated]`
 
 ### Testnet  
 - **Contract Address**: `[To be added after testnet deployment]`
 - **Network**: Stacks Testnet
-- **Deployment Block**: `[To be updated]`
 
 ### Development
 - **Local Deployment**: Available for local Clarinet testing
@@ -117,15 +115,14 @@ We envision a future where virtual pet care becomes a meaningful, social, and ec
 ### Mainnet
 - **Contract Address**: `[To be added after mainnet deployment]`
 - **Network**: Stacks Mainnet
-- **Deployment Block**: `[To be updated]`
 
 ### Testnet  
 - **Contract Address**: `[To be added after testnet deployment]`
 - **Network**: Stacks Testnet
-- **Deployment Block**: `[To be updated]`
 
 ### Development
 - **Local Deployment**: Available for local Clarinet testing
 - **Contract Name**: `virtual-pet-simulator`
+
 
 ---
